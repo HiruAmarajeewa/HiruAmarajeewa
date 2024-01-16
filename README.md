@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruamarajeewa&label=Profile%20views&color=0e75b6&style=flat" alt="hiruamarajeewa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiruamarajeewa" alt="hiruamarajeewa" /></a> </p>
-
 - 🌱 I’m currently learning **Higher Diploma in Software Engineering**
 
 - 📫 How to reach me **maroonsamarajeewa@gmail.com**
@@ -21,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruamarajeewa&show_icons=true&locale=en&layout=compact" alt="hiruamarajeewa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiruamarajeewa&show_icons=true&locale=en" alt="hiruamarajeewa" /></p>
