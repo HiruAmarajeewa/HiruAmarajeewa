@@ -1,3 +1,4 @@
+![image](https://github.com/HiruAmarajeewa/HiruAmarajeewa/assets/142741031/0191c112-c623-4e7a-bb27-b891a5da75f8)
 <h1 align="center">Hi 👋, I'm Hiru Amarajeewa</h1>
 <h3 align="center">A passionate Fullstack Developer from Sri Lanka</h3>
 
