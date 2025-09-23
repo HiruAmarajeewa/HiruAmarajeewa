@@ -7,7 +7,16 @@
 - 🌱 I’m currently learning **Higher Diploma in Software Engineering**
 
 - 📫 How to reach me **maroonsamarajeewa@gmail.com**
-<p align="left"><strong>Hire me on:</strong> <a href="https://www.upwork.com/freelancers/~hiruamarajeewa" target="_blank" rel="noopener noreferrer">Upwork</a> · <a href="https://www.fiverr.com/hiruamarajeewa" target="_blank" rel="noopener noreferrer">Fiverr</a></p>
+<h3 align="left"><strong>Hire me on:</strong></h3>
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~010ac7eebd111edb4f?mp_source=share" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Upwork_Logo.svg" alt="Upwork - hiruamarajeewa" height="30" width="40" />
+  </a>
+  <a href="https://www.fiverr.com/s/6Yg2Wjb" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Fiverr_Logo.svg" alt="Fiverr - hiruamarajeewa" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiru amarajeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiru amarajeewa" height="30" width="40" /></a>
