@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Higher Diploma in Software Engineering**
 
 - 📫 How to reach me **maroonsamarajeewa@gmail.com**
-
+<p align="left"><strong>Hire me on:</strong> <a href="https://www.upwork.com/freelancers/~hiruamarajeewa" target="_blank" rel="noopener noreferrer">Upwork</a> · <a href="https://www.fiverr.com/hiruamarajeewa" target="_blank" rel="noopener noreferrer">Fiverr</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hiru amarajeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiru amarajeewa" height="30" width="40" /></a>
