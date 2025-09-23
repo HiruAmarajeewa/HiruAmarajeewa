@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruamarajeewa&label=Profile%20views&color=0e75b6&style=flat" alt="hiruamarajeewa" /> </p>
 
-- 🌱 I’m currently learning **Higher Diploma in Software Engineering**
+- 🌱 I’m currently learning **BSc (Hons) in Computing Coventry University (UK)**
 
 - 📫 How to reach me **maroonsamarajeewa@gmail.com**
 <h3 align="left"><strong>Hire me on:</strong></h3>
