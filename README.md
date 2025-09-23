@@ -10,10 +10,10 @@
 <h3 align="left"><strong>Hire me on:</strong></h3>
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~010ac7eebd111edb4f?mp_source=share" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/upwork/upwork-original.svg" alt="Upwork - hiruamarajeewa" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork - hiruamarajeewa"/>
   </a>
   <a href="https://www.fiverr.com/s/6Yg2Wjb" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fiverr.svg" alt="Fiverr - hiruamarajeewa" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr - hiruamarajeewa"/>
   </a>
 </p>
 
