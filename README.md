@@ -55,7 +55,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
+<p align="">
 
 <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
