@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/hiru-amarajeewa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/></a>
-  <a href="https://fb.com/hiruamarajeewa" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook"/></a>
+  <a href="https://fb.com/hiruamarajeewa" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="50" alt="Facebook"/></a>
   <a href="https://instagram.com/hiruamarajeewa" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/></a>
 </p>
 
