@@ -33,21 +33,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/hiru-amarajeewa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
-
+  
   <a href="https://kaggle.com/hiruamarajeewa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="50" width="50" alt="Kaggle"/>
   </a>
-
+  
   <a href="https://fb.com/hiruamarajeewa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="50" alt="Facebook"/>
   </a>
-
+  
   <a href="https://instagram.com/hiruamarajeewa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
   </a>
 </p>
 
@@ -55,95 +55,28 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/c/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+<img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET"/>
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS"/>
+<img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring"/>
+<img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue"/>
 
 </p>
 
